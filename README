@@ -1,0 +1,5 @@
+#DEV
+1. Listing available containers 'docker ps'
+2. Entering a container 'docker exec -it {id} bash'
+3. Rebuilding a container 'docker-compose build {name}'
+4. Starting project's containers 'docker-compose up'
